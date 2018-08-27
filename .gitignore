@@ -1,0 +1,10 @@
+venv
+*.pyc
+staticfiles
+*~
+*.swp
+*#
+ghostdriver.log
+*.bak
+*.pdf
+chromedriver
